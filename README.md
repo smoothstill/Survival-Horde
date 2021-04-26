@@ -5,18 +5,18 @@ You are sent on a stealth mission deep in enemy territory. The situation turns d
  
 ### Pictures
 
-![](https://github.com/smoothstill/survival-horde/pictures/picture1.jpg?raw=true)
+![](https://github.com/smoothstill/Survival-Horde/pictures/picture1.jpg?raw=true)
 
-![](https://github.com/smoothstill/survival-horde/pictures/picture2.jpg?raw=true)
+![](https://github.com/smoothstill/Survival-Horde/pictures/picture2.jpg?raw=true)
 
-![](https://github.com/smoothstill/survival-horde/pictures/picture3.jpg?raw=true)
+![](https://github.com/smoothstill/Survival-Horde/pictures/picture3.jpg?raw=true)
 
-![](https://github.com/smoothstill/survival-horde/pictures/picture4.jpg?raw=true)
+![](https://github.com/smoothstill/Survival-Horde/pictures/picture4.jpg?raw=true)
 
-![](https://github.com/smoothstill/survival-horde/pictures/picture5.jpg?raw=true)
+![](https://github.com/smoothstill/Survival-Horde/pictures/picture5.jpg?raw=true)
 
-![](https://github.com/smoothstill/survival-horde/pictures/picture6.jpg?raw=true)
+![](https://github.com/smoothstill/Survival-Horde/pictures/picture6.jpg?raw=true)
 
-![](https://github.com/smoothstill/survival-horde/pictures/picture7.jpg?raw=true)
+![](https://github.com/smoothstill/Survival-Horde/pictures/picture7.jpg?raw=true)
 
-![](https://github.com/smoothstill/survival-horde/pictures/picture8.jpg?raw=true)
+![](https://github.com/smoothstill/Survival-Horde/pictures/picture8.jpg?raw=true)
